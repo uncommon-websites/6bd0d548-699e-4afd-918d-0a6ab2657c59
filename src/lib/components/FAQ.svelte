@@ -7,13 +7,13 @@
   }
 
   const faqs: FAQItem[] = [
-    { question: "Do I have to trust the lead investor with my investment?", answer: "Details about trust and lead investors..." },
-    { question: "How does Echo work?", answer: "Echo works by connecting..." },
-    { question: "I want to share my deals. Can I start a group?", answer: "Yes, you can start a group by..." },
-    { question: "I'm a founder. How do I raise money from Echo?", answer: "Founders can raise money by..." },
-    { question: "Is everyone eligible to use Echo?", answer: "Eligibility depends on..." },
-    { question: "Why do founders raise from Echo groups?", answer: "Founders choose Echo because..." },
-    { question: "Why would someone share their deals with me?", answer: "Sharing deals allows for..." }
+    { question: "How is Tatem different from Gmail or Outlook?", answer: "Tatem is built from the ground up for speed and focus. We offer sub-50ms response times, intelligent inbox splitting to separate important emails from clutter, and a keyboard-first design that keeps you in flow. Unlike traditional email clients, we prioritize delight and craft in every interaction." },
+    { question: "How fast is Tatem really?", answer: "Every interaction in Tatem happens in under 50 milliseconds. That's faster than you can blink. We've eliminated the lag and delays that make traditional email feel sluggish, so you can process your inbox at the speed of thought." },
+    { question: "Does Tatem work with my existing email?", answer: "Yes! Tatem works with your existing Gmail, Outlook, or other email accounts. We don't store your emails or passwords—everything stays secure and private while you get a dramatically better experience." },
+    { question: "What about privacy and security?", answer: "Privacy is core to how we built Tatem. We store zero emails in our database, zero passwords, and zero payment information. Your data stays yours, always. We use enterprise-grade security with a privacy-first architecture." },
+    { question: "Is Tatem available now?", answer: "Tatem is currently in early access with 10,000+ users. We're onboarding new users gradually to ensure everyone gets the best experience. Sign up to join the waitlist and we'll get you in as soon as possible." },
+    { question: "How much does Tatem cost?", answer: "We're currently focused on building the best email experience possible. Pricing details will be shared as we move closer to general availability. Early access users will get special consideration." },
+    { question: "Can I use Tatem on mobile?", answer: "Yes! Tatem works across desktop and mobile. Our mobile engineer is ensuring the same speed and delight translates perfectly to your phone." }
   ];
 
   let openIndex: number | null = null;
